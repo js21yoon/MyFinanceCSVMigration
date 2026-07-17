@@ -1,0 +1,11 @@
+.env
+dmp_financesummary.csv
+checkpoints/
+logs/
+reports/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+.claude/settings.local.json
